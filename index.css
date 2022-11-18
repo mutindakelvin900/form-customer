@@ -1,0 +1,22 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.fill{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 50px;
+  background-color: rgb(116, 116, 197);
+  width: 60vw;
+  margin-left: 250px;
+  height: 80vh;
+}
+.emplo{
+  padding-left: 50px;
+}
+.box{
+  padding-bottom: 200px;
+  background-color: yellow;
+}
